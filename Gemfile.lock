@@ -18,7 +18,6 @@ GEM
       diff-lcs (~> 1.1.2)
     rspec-mocks (2.3.0)
 
-	
 PLATFORMS
   x86-mingw32
 
