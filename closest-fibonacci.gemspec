@@ -21,11 +21,13 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "README.txt",
     "Rakefile",
     "VERSION",
+    "closest-fibonacci.gemspec",
     "lib/closest-fibonacci.rb",
     "spec/closest-fibonacci_spec.rb",
     "spec/spec_helper.rb"
